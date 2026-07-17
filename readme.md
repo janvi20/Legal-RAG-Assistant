@@ -8,6 +8,8 @@ The system ingests legal case data from the **Common Pile CaseLaw Access Project
 
 ## 🌟 Project Highlights
 
+### Status: In-progress
+
 - End-to-end legal document RAG pipeline
 - Streaming dataset ingestion from Hugging Face
 - Hybrid search architecture:
